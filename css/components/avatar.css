@@ -1,0 +1,5 @@
+.avatar {
+	border-radius: 50%;
+	max-width: 35%;
+	min-width: 200px;
+}
